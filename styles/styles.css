@@ -1,0 +1,167 @@
+body{
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:#06c;
+}
+
+.nav-item{
+    text-align: center;
+}
+
+.navbar{
+   
+    padding: 3px;
+    background-color:rgb(60, 59, 59);
+}
+.navbar-collapse{
+    justify-content:center;
+}
+.navbar-nav li{
+    margin-left:20px;
+    font-size:12px;
+}
+.navbar-nav li a{
+   color:#f5f5f7 !important;
+}
+
+
+.links{
+   font-size: 23px;
+   padding-left: 20px;
+   display:inline-block;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.order-now{
+    margin-left: 50px;
+}
+
+.macbookdesc{
+    position: relative;
+    top:37%;
+    right:13%;
+}
+.macbook-title{
+    font-size: 54px;
+}
+
+.supercharged{
+
+    background-image: url("../images/supercharged.png");
+    background-size:251px 41px;
+    width: 100%;
+    height:41px;
+    background-repeat:no-repeat;
+    position:relative;
+    background-position: center;
+   
+
+}
+
+
+.available-time{
+    color:#bcbcbe;
+    margin-top: 15px;  
+}
+.macbook-air-container{
+
+    background-image: url("../images/macbookair.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 3000px 624x;
+
+    width: 100%;
+    height: 800px;
+ 
+
+}
+
+
+.macbookdesc-grid{
+    position: relative;
+    top:5%;
+    right:1%;
+}
+
+.macbookcol{
+   background-image: url("../images/promo_macbookair__fywl7i82fueu_large.png");
+ 
+   background-repeat: no-repeat;
+   width:100%;
+   height:580px;
+   max-width: 1260px;
+   background-size:1260px 580px;
+   position: relative;
+   background-position:center;
+
+  
+}
+
+.macbook13desc-grid{
+    position: relative;
+    top:5%;
+   
+}
+
+.macbook13col{
+
+   background-image: url("../images/promo_mbp13__buwssod6c8vm_large.jpg");
+   background-repeat: no-repeat;
+   width:100%;
+   height:580px;
+   max-width: 1260px;
+   background-size:1260px 580px;
+ 
+   background-position:left 50% top 0px ;
+   position: relative;
+
+}
+
+
+
+.iPhone13-container{
+    
+    background-image: url("../images/iphone13.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 3008px 624x;
+
+    width: 100%;
+    
+    height: 624px;
+    margin-top:-20px;
+    
+}
+
+.iPhone13desc{
+    position:relative;
+    top:5%;
+}
+
+.iPhone13-title{
+    
+    font-size: 48px;
+}
+
+.discount-container{
+        
+    background-image: url("../images/discount.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 3008px 624x;
+
+    width: 100%;
+    height: 624px;
+    margin-top:10px;
+}
+.discountdesc{
+
+    position:relative;
+    top:7%;
+  
+}
+
+.span-supercharged{
+    color:#ca2166;
+}
